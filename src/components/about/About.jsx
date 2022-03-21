@@ -40,9 +40,9 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit aut consequatur esse nam. Deleniti placeat nesciunt fugit quo accusamus vel, quos voluptatem atque adipisci, inventore id, aliquam velit magni distinctio!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat similique perferendis adipisci hic accusantium et soluta rem repellendus laudantium! Accusamus delectus animi esse quidem eius iste aspernatur modi facere blanditiis.
           </p>
-
+          
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

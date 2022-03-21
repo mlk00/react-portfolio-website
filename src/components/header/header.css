@@ -58,3 +58,11 @@ header {
   font-weight: 300;
   font-size: 0.9rem;
 }
+
+/* =============== MEDIA QUERIES (medium devices) ======== */
+@media screen and (max-width: 1024px) {
+}
+
+/* =============== SMALL QUERIES (small devices) ======== */
+@media screen and (max-width: 600px) {
+}

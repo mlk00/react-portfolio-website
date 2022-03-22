@@ -71,11 +71,7 @@ const Services = () => {
             <li>
               <BiCheck className='service__list-icon' />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>            
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>            
+            </li>                       
           </ul>
         </article>
         {/* WEB DEVELOPMENT */}

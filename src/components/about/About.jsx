@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat similique perferendis adipisci hic accusantium et soluta rem repellendus laudantium! Accusamus delectus animi esse quidem eius iste aspernatur modi facere blanditiis.
+          Experienced web developer with expertise in all stages of advanced web development, including user interface, testing, and debugging. Bringing forth expertise in the installation, testing, and maintenance of web systems. Equipped with a promising skill-set in an assortment of technologies. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
           </p>
           
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
